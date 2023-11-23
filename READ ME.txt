@@ -1,0 +1,23 @@
+Hola, bienvenido al detector automático de géneros musicales.
+
+Sigue estas instrucciones para ejecutar la aplicación:
+
+1. Descarga el Notebook disponible en  code/Interfaz_Proyecto_Final.ipynb
+2. Ejecuta en orden cada una de las celdas del notebook. Cada celda realiza las siguientes actividades:
+	A. Se instala la librería gradio
+	B. Se importan a la carpeta raíz los audios ejemplo para correr la aplicación
+	C. Se importan a la carpeta raíz los archivos de los pesos de cada uno de los modelos
+	D. Se ejecuta la aplicación. Con ella se puede interactuar desde el Notebook o desde el link suministrado por gradio
+	   una vez que la celda se encuentra corriendo.
+3. Carga la canción que desees que pertenezca a uno de los siguientes géneros:
+	A. Blues
+	B. Classical
+	C. Country
+	D. Disco
+	E. Hiphop
+	F. Jazz
+	G. Metal
+	H. Pop
+	I. Reggae
+	J. Rock
+4. Prueba la app, ¡Y listo!
